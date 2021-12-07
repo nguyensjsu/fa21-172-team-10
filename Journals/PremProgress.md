@@ -11,5 +11,5 @@
 # Week 3
 
 * Started working on frontend listings to show location, pictures, and names of rental spots to users.
-* Worked on frontend React/Redux components for payments page in order to implement registration and location services for users.
+* Worked on frontend React/Redux components for payments page in order to implement payments, registration and location services for users.
 
